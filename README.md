@@ -3,7 +3,7 @@
 This website serves as the main website for Theta Tau Chi Chapter at the University of Arizona. The website is currently visible at thetatauchi.org
 
 ## Maintainers
-Paloma is the lead maintainer of the website. Any questions regarding the content or format of the website should be directed towards her.
+Paloma Ortiz (pcortiz@arizona.edu) is the lead maintainer of the website. Any questions regarding the content or format of the website should be directed towards her.
 
 Logan Pageler (pagelerlogan@gmail.com) maintains ownership of the domain. Any issues with the domain should be sent to her.
 
