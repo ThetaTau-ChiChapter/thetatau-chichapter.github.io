@@ -13,6 +13,10 @@ Frank Ventura (venturafranklin@gmail.com) is the manager of the Theta Tau Tucson
 
 The website is served at the root of this repo on the main branch. To deploy a new version of the website simply push to main.
 
+## Structure
+
+The website uses basic JavaScript, HTML, and CCS for its design. We also include the [bootstraps library](https://getbootstrap.com/) for easy component usage.
+
 ## Domain
 
 The domain is managed by Cloud Flare.
